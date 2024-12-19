@@ -20,5 +20,5 @@ LogSwift is a C++-based Intrusion Detecting System designed to process, analyze,
 ### 1. Clone the Repository  
 
 ```bash  
-git clone https://github.com/YOUR_USERNAME/LogSwift.git  
-cd LogSwift  
+git clone https://github.com/Yime1705/ids.git  
+cd ids 
