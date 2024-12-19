@@ -2,7 +2,6 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include <algorithm> // For std::transform
 using namespace std;
 
 struct Log {
